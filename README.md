@@ -1,6 +1,5 @@
 ![Git Badges](https://img.shields.io/badge/code-bash-orange) ![Git Badges](https://img.shields.io/badge/license-GPLv3-blue) ![Git Badges](https://img.shields.io/badge/version-v3.0.1-green)
 
-# Arch Installer
 Custom Arch Installation and Config Script
 
 That´s a test. will it work?

@@ -3,6 +3,8 @@
 # Arch Installer
 Custom Arch Installation and Config Script
 
+That´s a test. will it work?
+
 ## Obtaining The Repository
 - Update mirrorlist and install git: `pacman -Sy git`
 - Get the script: `git clone https://gitlab.com/Nelox/arch-installer`
